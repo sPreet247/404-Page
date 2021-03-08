@@ -64,3 +64,14 @@ footer{
 	justify-content: center;
 	margin-top: 300px;
 }
+
+@media screen and ( min-width: 360px) {
+h1{
+	font-size: 48px;
+	line-height: 71px;
+}
+p{
+	font-size: 18px;
+	line-height: 27px;
+}
+}
